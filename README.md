@@ -4,7 +4,8 @@
 **Genetic Algorithm** solution to find non-linear polynomial **equation root** 
 
 in this specific problem the equation is:
-\
+
+
 <img src="./main-equation.png" alt="pic">
 
 ## Getting Started
